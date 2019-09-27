@@ -1,5 +1,11 @@
 # 100 Days Of Coding - R1 Log
 
+### Day 04: Friday, September 27, 2019
+
+**Today's Progress**:  Continued working on my ci/cd pipeline for my project.  Got a pipeline working for tests, linting, security check, nonprod & prod.  SWEET!
+
+**Thoughts**:  I'll put a link later.
+
 ### Day 03: Thursday, September 26, 2019
 
 **Today's Progress**:  Continued working on my ci/cd pipeline for my project.  I'm still having trouble running the tests.
