@@ -1,5 +1,11 @@
 # 100 Days Of Coding - R1 Log
 
+### Day 05: Sunday, September 29, 2019
+
+**Today's Progress**:  contined learning about writing tests with pytest
+
+**Thoughts**:  I'll put a link later.
+
 ### Day 05: Saturday, September 28, 2019
 
 **Today's Progress**:  learned about writing tests with pytest
