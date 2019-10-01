@@ -1,12 +1,18 @@
 # 100 Days Of Coding - R1 Log
 
-### Day 06: Monday, September 30, 2019
+### Day 08: Tuesday, October 01, 2019
+
+**Today's Progress**:  Finished the first 10 parts (of 44) for Python for Beginners.
+
+**Thoughts**:  https://www.youtube.com/watch?reload=9&v=jFCNu1-Xdsw
+
+### Day 07: Monday, September 30, 2019
 
 **Today's Progress**:  Finished the first 6 parts (of 44) for Python for Beginners.
 
 **Thoughts**:  https://www.youtube.com/watch?reload=9&v=jFCNu1-Xdsw
 
-### Day 05: Sunday, September 29, 2019
+### Day 06: Sunday, September 29, 2019
 
 **Today's Progress**:  contined learning about writing tests with pytest
 
