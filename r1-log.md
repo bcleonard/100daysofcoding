@@ -1,5 +1,11 @@
 # 100 Days Of Coding - R1 Log
 
+### Day 16: Wednesday, October 09, 2019
+
+**Today's Progress**:  Finished the first 35 parts (of 44) for Python for Beginners.
+
+**Thoughts**:  https://www.youtube.com/watch?reload=9&v=jFCNu1-Xdsw
+
 ### Day 15: Tuesday, October 08, 2019
 
 **Today's Progress**:  Finished the first 32 parts (of 44) for Python for Beginners.
