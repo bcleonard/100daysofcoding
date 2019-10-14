@@ -1,5 +1,11 @@
 # 100 Days Of Coding - R1 Log
 
+### Day 21: Monday, October 14, 2019
+
+**Today's Progress**:  Completed Learning Python: From Zero to Hero
+
+**Thoughts**:  https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/
+
 ### Day 20: Sunday, October 13, 2019
 
 **Today's Progress**:  Finished the entire course (all 44 parts) for Python for Beginners.
