@@ -1,5 +1,11 @@
 # 100 Days Of Coding - R1 Log
 
+### Day 18: Friday, October 11, 2019
+
+**Today's Progress**:  Finished the first 39 parts (of 44) for Python for Beginners.
+
+**Thoughts**:  https://www.youtube.com/watch?reload=9&v=jFCNu1-Xdsw
+
 ### Day 17: Thursday, October 10, 2019
 
 **Today's Progress**:  Finished the first 37 parts (of 44) for Python for Beginners.
