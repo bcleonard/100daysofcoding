@@ -1,5 +1,11 @@
 # 100 Days Of Coding - R1 Log
 
+### Day 22: Tuesday, October 15, 2019
+
+**Today's Progress**:  Migrated IBM COS scripts to github.com
+
+**Thoughts**:  https://github.com/bcleonard/ibm_cos_s3_access_scripts
+
 ### Day 21: Monday, October 14, 2019
 
 **Today's Progress**:  Completed Learning Python: From Zero to Hero
