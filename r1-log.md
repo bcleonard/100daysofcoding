@@ -1,5 +1,11 @@
 # 100 Days Of Coding - R1 Log
 
+### Day 23: Wednesday, October 16, 2019
+
+**Today's Progress**:  added new & improved listS3 script.  Much easier to use
+
+**Thoughts**:  https://github.com/bcleonard/ibm_cos_s3_access_scripts
+
 ### Day 22: Tuesday, October 15, 2019
 
 **Today's Progress**:  Migrated IBM COS scripts to github.com
