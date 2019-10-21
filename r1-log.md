@@ -1,5 +1,11 @@
 # 100 Days Of Coding - R1 Log
 
+### Day 24: Friday, October 18, 2019
+
+**Today's Progress**:  added new & improved rmS3 script.  Much easier to use
+
+**Thoughts**:  https://github.com/bcleonard/ibm_cos_s3_access_scripts
+
 ### Day 24: Thursday, October 17, 2019
 
 **Today's Progress**:  added new & improved putS3 script.  Much easier to use
