@@ -1,6 +1,12 @@
 # 100 Days Of Coding - R1 Log
 
-### Day 24: Friday, October 18, 2019
+### Day 26: Monday, October 21, 2019
+
+**Today's Progress**:  added new & improved geS3 script.  Much easier to use
+
+**Thoughts**:  took the weekend off
+
+### Day 25: Friday, October 18, 2019
 
 **Today's Progress**:  added new & improved rmS3 script.  Much easier to use
 
