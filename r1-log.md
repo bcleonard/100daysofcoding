@@ -1,5 +1,11 @@
 # 100 Days Of Coding - R1 Log
 
+### Day 27: Thursday, November 7, 2019
+
+**Today's Progress**:  I started Basic HTML and HTML5 at freecodecamp.org
+
+**Thoughts**:  after a small absense, I decided not to reup my codeacademy.org subscription.  Went to freecodecamp.org
+
 ### Day 26: Monday, October 21, 2019
 
 **Today's Progress**:  added new & improved geS3 script.  Much easier to use
