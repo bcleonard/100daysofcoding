@@ -1,5 +1,11 @@
 # 100 Days Of Coding - R1 Log
 
+### Day 28: Friday, January 31, 2020
+
+**Today's Progress**:  Completed up to chapter 4 of the raspberry pi workshop
+
+**Thoughts**: https://www.udemy.com/course/raspberry-pi-workshop-become-a-coder-maker-inventor/learn/lecture/7171378#overview 
+
 ### Day 27: Thursday, November 7, 2019
 
 **Today's Progress**:  I started Basic HTML and HTML5 at freecodecamp.org
